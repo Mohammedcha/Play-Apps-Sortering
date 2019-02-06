@@ -18,10 +18,10 @@
   ],
   
 	"icons": 
-	{"16": "re-skinning/icon16.png",
-	 "48": "re-skinning/icon48.png",
-	 "64": "re-skinning/icon64.png",
-	 "128": "re-skinning/icon128.png"
+	{"16": "icon16.png",
+	 "48": "icon48.png",
+	 "64": "icon64.png",
+	 "128": "icon128.png"
 	},
 
   
