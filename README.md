@@ -1,5 +1,4 @@
 
-<center>
 # Play App Sortering
 
 Google chrome extension : Sort the Applications of the Google play store apparently by title, publisher or price
@@ -8,4 +7,3 @@ Google chrome extension : Sort the Applications of the Google play store apparen
 
 Made with LOVE ❤ By Mohammed Cha
 
-</center>
