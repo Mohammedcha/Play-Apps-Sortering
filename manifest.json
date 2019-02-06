@@ -1,0 +1,29 @@
+{
+  "name" : "Re-skinning Group - Play App Sortering",
+  "version" : "0.1",
+  "author": "Mohammed Cha",
+  "description" : "Ability to sort the Play store Apps",
+  "background" : {
+		"scripts": ["background.js"]
+  },
+  "permissions": [
+	"contextMenus",
+	"https://play.google.com/store/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://play.google.com/store/*"],
+      "js": ["jquery-1.11.0.min.js","content.js"]
+    }
+  ],
+  
+	"icons": 
+	{"16": "re-skinning/icon16.png",
+	 "48": "re-skinning/icon48.png",
+	 "64": "re-skinning/icon64.png",
+	 "128": "re-skinning/icon128.png"
+	},
+
+  
+  "manifest_version": 2
+}
